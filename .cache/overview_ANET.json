@@ -1,0 +1,13 @@
+{
+  "fetchedAt": 1773512368357,
+  "data": {
+    "Symbol": "ANET",
+    "AssetType": "Common Stock",
+    "Name": "Arista Networks",
+    "Description": "Arista Networks (formerly Arastra) is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer network switches to deliver software-defined networking (SDN) solutions for large datacenter, cloud computing, high-performance computing, and high-frequency trading environments.",
+    "Exchange": "NYSE",
+    "Sector": "TECHNOLOGY",
+    "Industry": "COMPUTER HARDWARE",
+    "MarketCapitalization": "168202715000"
+  }
+}
