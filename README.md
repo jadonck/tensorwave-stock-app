@@ -42,7 +42,7 @@ npm install
 Copy the example env file and add your API key:
 
 ```bash
-cp .env.example .env.local
+copy .env.example .env.local
 ```
 
 Once done, open `.env.local` and replace `your_api_key_here` with your personal Alpha Vantage API key.
