@@ -135,7 +135,7 @@ __tests__/
 ├── components.test.tsx         # Component rendering tests
 ├── edge-cases.test.tsx         # Edge case and special value tests
 └── stocks.test.ts              # Stock metadata validation
-.cache/                         # Pre-populated API response cache (30 JSON files)
+.cache/                         # Populated cache for stocks
 ```
 
 ## Development Process
