@@ -23,7 +23,7 @@ This is a Next.js application that displays stock market data for 15 tech compan
 
 ## Getting Started
 
-> **Note:** The following instructions assume a Windows environment. For Mac/Linux, replace `copy` with `cp`.
+> **Note:** The following instructions are  for Windows. If using Mac or Linux, you can replace `copy` with `cp`.
 
 ### Prerequisites
 
