@@ -23,10 +23,12 @@ This is a Next.js application that displays stock market data for 15 tech compan
 
 ## Getting Started
 
+> **Note:** The following instructions assume a Windows environment. For Mac/Linux, replace `copy` with `cp`.
+
 ### Prerequisites
 
 - Node.js 18+
-- An Alpha Vantage API key, free at 
+- An Alpha Vantage API key, free at
 (https://www.alphavantage.co/support/#api-key)
 
 ### Installation
@@ -47,7 +49,7 @@ copy .env.example .env.local
 
 Once done, open `.env.local` and replace `your_api_key_here` with your personal Alpha Vantage API key.
 
-> **Note:**: Even without an API key, the app will still function, it will simply have outdated stock data and information. The API key creates the ability to have up to date and live information on click.
+> **Note:** Even without an API key, the app will still function, it will simply have outdated stock data and information. The API key creates the ability to have up to date and live information on click.
 
 ### Run Development Server
 
