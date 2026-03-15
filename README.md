@@ -1,6 +1,6 @@
 # Tech Stock Explorer
 
-This is a Next.js application that displays stock market data for 15 tech companies using the Alpha Vantage API.
+Built for the TensorWave Software Engineering Internship Code Challenge. This is a Next.js application that displays stock market data for 15 tech companies using the Alpha Vantage API.
 
 ## Features
 
