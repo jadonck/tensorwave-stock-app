@@ -142,4 +142,4 @@ __tests__/
 
 ## Development Process
 
-This project was developed with the assistance of Claude (AI) for code generation and test creation. All design decisions, architectural choices, manual testing, and bug identification were performed by me. I directed and guided each feature, reviewed all generated code, and ensured correctness through hands-on testing.
+This project was developed with the assistance of Claude (AI) for code generation and test creation. All design decisions, architectural choices, manual testing, and bug identification were performed by me. I directed and guided each feature, reviewed all generated code, and ensured correctness through trial and error while testing.
