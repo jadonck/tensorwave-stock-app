@@ -27,7 +27,7 @@ Built for the TensorWave Software Engineering Internship Code Challenge. This is
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js version 18+
 - An Alpha Vantage API key, free at
 (https://www.alphavantage.co/support/#api-key)
 
